@@ -1,3 +1,57 @@
 .btn-color {
     background-color: rgba(25, 25, 25, 1);
 }
+
+.bg-yellow {
+    background-color:#FFC017 ;
+}
+
+.borderline {
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    font-family: 'PT Serif', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.oby {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+h6 {
+    color: grey;
+}
+
+#tom {
+    color: black;
+}
+
+.borderline-g {
+    border-bottom: 1px solid rgb(216, 216, 216);
+}
+
+.f-s {
+    font-size: small;
+}
+
+.uby {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.f-sg {
+    font-size: small;
+    color: grey;
+}
+
+.aside-buttons {
+    margin-bottom: 5px;
+}
+
+#hgreen {
+    color: green;
+    margin-top: 20px;
+    
+}
